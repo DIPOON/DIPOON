@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DIPOON
 - 👀 I’m interested in Game.
-- 🌱 I’m currently learning Airtest, Automated Testing Tools, Smash Legends.
+- 🌱 I’m currently learning Lua, Java, Unicode, utf-8, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
